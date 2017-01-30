@@ -1,5 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Dan's research site for the AHRC funded project titled:
+# **Plural Heritages of Istanbul's World Heritage Sites: the case of Land Walls**
 
+### Objectives:
+1. Inform socially engaged heritage planning through 'bottom-up' perspectives.
+2. Relate the walls to intangible cultural heritages (understand relations between place, identity and heritage).
+3. Co-produce both situated and web-based, public-facing digital heritage interpretation resources that reflect non-official, understandings of the Walls and their surroundings.
+4. Build capacity through modelling heritage management/interpretation practice, digital technologies and community engagement.
+
+### Outputs:
+1. **Ethnographic study from larger group:**
+  - Voice recordings
+  - Transcripts from interviews
+  - Focus groups and walking tours undertaken with researchers
+  - Visual data such as photographs of places taken by participants
+  - Data resulting from cultural probe activity such as participants' drawings and impressionistic maps
+2. **Co-produced outputs smaller group:**
+  - Short films
+  - Photographic essays
+  - Audio recordings
+
+### Digital tasks:
+1. **Digitize ethnographic researchers / cultural probes & understand what takes place:**
+  - Audio recording while walking
+  - Group audio recording while walking
+  - Visual data while walking
+  - Maps
+  - Drawings / illustrations
+2. **Web-based techniques for community engagement:**
+  -
+
+3. **Digital situated engagement techniques:**
+  - [iBeacons](research/beacons.md)
+
+<!--
 You can use the [editor on GitHub](https://github.com/danfs/Istanbul-case-of-Land-Walls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -34,4 +67,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
