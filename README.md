@@ -1,4 +1,3 @@
-## Welcome to Dan's research site for the AHRC funded project titled:
 # **Plural Heritages of Istanbul's World Heritage Sites: the case of Land Walls**
 
 ### Objectives:
