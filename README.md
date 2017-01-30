@@ -11,13 +11,14 @@
 1. **Ethnographic study / cultural probe from larger group:**
   - **Activity:**
     - Focus groups and walking tours undertaken with researchers
-    - 
+    - [Interviews](research/interviews.md)
   - **Outputs:**
     - Voice recordings
     - Transcripts from interviews
     - Visual data such as photographs of places taken by participants
     - Drawings
     - Impressionistic maps
+    - 'The art of hearing data'
 2. **Co-produced outputs smaller group:**
   - Short films
   - Photographic essays
