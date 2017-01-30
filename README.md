@@ -8,12 +8,16 @@
 4. Build capacity through modelling heritage management/interpretation practice, digital technologies and community engagement.
 
 ### Outputs:
-1. **Ethnographic study from larger group:**
-  - Voice recordings
-  - Transcripts from interviews
-  - Focus groups and walking tours undertaken with researchers
-  - Visual data such as photographs of places taken by participants
-  - Data resulting from cultural probe activity such as participants' drawings and impressionistic maps
+1. **Ethnographic study / cultural probe from larger group:**
+  - **Activity:**
+    - Focus groups and walking tours undertaken with researchers
+    - 
+  - **Outputs:**
+    - Voice recordings
+    - Transcripts from interviews
+    - Visual data such as photographs of places taken by participants
+    - Drawings
+    - Impressionistic maps
 2. **Co-produced outputs smaller group:**
   - Short films
   - Photographic essays
@@ -21,16 +25,18 @@
 
 ### Digital tasks:
 1. **Digitize ethnographic researchers / cultural probes & understand what takes place:**
-  - Audio recording while walking
-  - Group audio recording while walking
-  - Visual data while walking
-  - Maps
-  - Drawings / illustrations
+  - [Audio recording while walking](research/audio.md)
+  - [Group audio recording while walking](research/group_audio.md)
+  - [Visual data while walking](research/visual_recording.md)
+  - [Maps](research/maps.md)
+  - [Drawings / illustrations](research/drawings.md)
+  - [Galvanic skin response](research/EDR.md)
 2. **Web-based techniques for community engagement:**
-  -
-
+  - Blog
 3. **Digital situated engagement techniques:**
   - [iBeacons](research/beacons.md)
+  - [Mobile platforms](research/mobile.md)
+  - [Other](research/other.md)
 
 <!--
 You can use the [editor on GitHub](https://github.com/danfs/Istanbul-case-of-Land-Walls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
