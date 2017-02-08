@@ -33,10 +33,21 @@
   - [Galvanic skin response](research/EDR.md)
 2. **Web-based techniques for community engagement:**
   - Blog
+  - Meetups
+  - Chat groups
 3. **Digital situated engagement techniques:**
   - [iBeacons](research/beacons.md)
   - [Mobile platforms](research/mobile.md)
-  - [Other](research/other.md)
+  - GPS (geo-fencing)
+    - [Other](research/other.md)
+
+### Unknowns:
+  - GPS coverage
+  - Local mobile technology
+  - Wifi coverage
+  - Willingness to download Apps / turn on bluetooth / enable location
+  - 
+  -
 
 <!--
 You can use the [editor on GitHub](https://github.com/danfs/Istanbul-case-of-Land-Walls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
