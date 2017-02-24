@@ -14,3 +14,4 @@
 
 ## Other:
 - [Cascade on Wheels: Walls Map](https://vimeo.com/645435)
+- [Locative Media As Socialising And Spatializing Practice: Learning From Archaeology](http://web.archive.org/web/20080420201202/http://leoalmanac.org/journal/vol_14/lea_v14_n03-04/gallowayward.asp)

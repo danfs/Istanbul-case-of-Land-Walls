@@ -23,6 +23,15 @@
   - Photographic essays
   - Audio recordings
 
+### Probes:
+  1. Stories as probes.
+  2. Maps
+  3. Timelines.
+  4. Camera phone (prompt to take a pic).
+  5. Sketches.
+  6. News as prompts.
+
+
 ### Digital tasks:
 1. **Digitize ethnographic researchers / cultural probes & understand what takes place:**
   - [Audio recording while walking](research/audio.md)
@@ -46,7 +55,7 @@
   - Local mobile technology
   - Wifi coverage
   - Willingness to download Apps / turn on bluetooth / enable location
-  - 
+  -
   -
 
 <!--
